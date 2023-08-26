@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pritam145
+- 👋 Hi, I’m Pritam
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on instagram
 - 📫 How to reach me 
 insta = https://www.instagram.com/em1_pritam/
